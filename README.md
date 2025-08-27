@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Mammet 👋  <br><br>👨‍💻 **Android & Android TV Developer**  <br>📍 Ashgabat, Turkmenistan  <br>💡 Since 2021 building apps with **Kotlin • Jetpack Compose • Kotlin Multiplatform**
+# Hi there, I'm Mammet 👋  <br><br>👨‍💻 **Android & Android TV Developer**  <br>📍 Ashgabat, Turkmenistan  <br>💡 Since 2021 building apps with **Kotlin • Jetpack Compose • Kotlin Multiplatform**<br><br>---<br><br>## 🙋‍♂️ About Me<br>- Started my Android journey in **2021**.  <br>- Focused on **mobile** and **Android TV applications**.  <br>- Currently working at **Belet**, creating an online cinema platform.  <br>- Always exploring new technologies and improving my skills.  <br><br>---<br><br>## 🛠️ Tech Stack<br>- **Languages:** Kotlin, Java  <br>- **Frameworks & Tools:** Jetpack Compose, Android TV, Kotlin Multiplatform, Hilt, Koin, Coroutines  <br>- **Other:** Git, CI/CD, REST APIs, Paging3, Retrofit  
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mammetmyrat&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
