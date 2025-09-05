@@ -11,11 +11,11 @@
 #### Jetpack News App
 [![Jetpack News App](https://img.shields.io/badge/Jetpack%20News%20App-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mammetmyrat/Jetpack-NewsApp)  
 *News app using Jetpack Compose, Kotlin, Retrofit.*
-#### Recipe App KMM
-[![Recipe App KMM](https://img.shields.io/badge/Recipe%20App%20CMP-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mammetmyrat/RecipeAppCmp)  
+#### Recipe App KMP
+[![Recipe App KMP](https://img.shields.io/badge/Recipe%20App%20KMP-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mammetmyrat/RecipeAppCmp)  
 *Recipe app with Kotlin, Room, Kotlin Multiplatform, Compose Multiplatform, Koin, Ktor.*
-#### Weather App KMM
-[![Weather App KMM](https://img.shields.io/badge/Recipe%20App%20CMP-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mammetmyrat/WeatherKMP)  
+#### Weather App KMP
+[![Weather App KMP](https://img.shields.io/badge/Weather%20App%20KMP-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mammetmyrat/WeatherKMP)  
 *Weather app with Kotlin, Room, Kotlin Multiplatform, Compose Multiplatform, Koin, Ktor.*
 
 ## 🌐 Socials:
