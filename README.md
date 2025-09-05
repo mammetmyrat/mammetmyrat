@@ -7,13 +7,16 @@
 *Android TV app for streaming movies and series. Built with Kotlin, Jetpack Compose, Retrofit, ExoPlayer.*
 #### Belet Mobile
 [![Belet Mobile](https://img.shields.io/badge/Belet%20Mobile-Google%20Play-4285F4?logo=googleplay&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/details?id=tm.belet.films)  
-*Mobile app version of Belet online cinema. Built with Kotlin, XML, Ktor, Hilt, Paging3.*
+*Mobile app version of Belet online cinema. Built with Kotlin, XML, Hilt, Paging3.*
 #### Jetpack News App
 [![Jetpack News App](https://img.shields.io/badge/Jetpack%20News%20App-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mammetmyrat/Jetpack-NewsApp)  
 *News app using Jetpack Compose, Kotlin, Retrofit.*
-#### Recipe App CMP
-[![Recipe App CMP](https://img.shields.io/badge/Recipe%20App%20CMP-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mammetmyrat/RecipeAppCmp)  
-*Recipe app with Kotlin, Room, Kotlin Multiplatform, Compose Multiplatform, SQLite.*
+#### Recipe App KMM
+[![Recipe App KMM](https://img.shields.io/badge/Recipe%20App%20CMP-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mammetmyrat/RecipeAppCmp)  
+*Recipe app with Kotlin, Room, Kotlin Multiplatform, Compose Multiplatform, Koin, Ktor.*
+#### Weather App KMM
+[![Weather App KMM](https://img.shields.io/badge/Recipe%20App%20CMP-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mammetmyrat/WeatherKMP)  
+*Weather app with Kotlin, Room, Kotlin Multiplatform, Compose Multiplatform, Koin, Ktor.*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/double_m279) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mammet-mammetmyradov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mammetmyrat20020709@gmail.com) 
