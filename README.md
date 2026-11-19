@@ -1,47 +1,121 @@
-# 💫 About Me:
-# Hi there, I'm Mammet 👋  <br><br>👨‍💻 **Android & Android TV Developer**  <br>📍 Ashgabat, Turkmenistan  <br>💡 Since 2021 building apps with **Kotlin • Jetpack Compose • Kotlin Multiplatform**<br>
+<div align="center">
 
-### 📌 Projects
-#### Belet TV
-[![Belet TV](https://img.shields.io/badge/Belet%20TV-Google%20Play-4285F4?logo=googleplay&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/details?id=tm.belet.filmstv)  
-*Android TV app for streaming movies and series. Built with Kotlin, Jetpack Compose, Retrofit, ExoPlayer.*
-#### Belet Mobile
-[![Belet Mobile](https://img.shields.io/badge/Belet%20Mobile-Google%20Play-4285F4?logo=googleplay&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/details?id=tm.belet.films)  
-*Mobile app version of Belet online cinema. Built with Kotlin, XML, Hilt, Paging3.*
-#### Jetpack News App
-[![Jetpack News App](https://img.shields.io/badge/Jetpack%20News%20App-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mammetmyrat/Jetpack-NewsApp)  
-*News app using Jetpack Compose, Kotlin, Retrofit.*
-#### Recipe App KMP
-[![Recipe App KMP](https://img.shields.io/badge/Recipe%20App%20KMP-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mammetmyrat/RecipeAppCmp)  
-*Recipe app with Kotlin, Room, Kotlin Multiplatform, Compose Multiplatform, Koin, Ktor.*
-#### Weather App KMP
-[![Weather App KMP](https://img.shields.io/badge/Weather%20App%20KMP-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mammetmyrat/WeatherKMP)  
-*Weather app with Kotlin, Room, Kotlin Multiplatform, Compose Multiplatform, Koin, Ktor.*
+<img src="./header.svg" width="100%" alt="Mammet — Android, Android TV, Kotlin Multiplatform"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/double_m279) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mammet-mammetmyradov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mammetmyrat20020709@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=00F0FF&background=0D111700&center=true&vCenter=true&width=700&height=40&lines=Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+Compose+Multiplatform;Android+TV+apps+with+real+users+on+Google+Play;One+codebase%3A+Android+%E2%86%92+iOS+%E2%86%92+Web+%E2%86%92+Desktop" alt="typing" />
+</a>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
-![Android TV](https://img.shields.io/badge/Android%20TV-3DDC84?logo=android&logoColor=white&style=for-the-badge)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
-![Coroutines](https://img.shields.io/badge/Coroutines-6366F1?logo=kotlin&logoColor=white&style=for-the-badge)
-![Hilt](https://img.shields.io/badge/Hilt-FF5722?logo=dagger&logoColor=white&style=for-the-badge)
-![Koin](https://img.shields.io/badge/Koin-7A4FFF?logo=kotlin&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Paging3](https://img.shields.io/badge/Paging3-1976D2?logo=kotlin&logoColor=white&style=for-the-badge)
-![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?logo=retrofit&logoColor=white&style=for-the-badge)
-![Ktor](https://img.shields.io/badge/Ktor-6A1B9A?logo=kotlin&logoColor=white&style=for-the-badge)
-![ExoPlayer](https://img.shields.io/badge/ExoPlayer-FF6F00?logo=android&logoColor=white&style=for-the-badge)
-![Room](https://img.shields.io/badge/Room-FF6F61?logo=android&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mammetmyrat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mammetmyrat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mammetmyrat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![views](https://komarev.com/ghpvc/?username=mammetmyrat&label=VIEWS&color=00f0ff&style=flat-square&labelColor=0d1117)
+![followers](https://img.shields.io/github/followers/mammetmyrat?style=flat-square&logo=github&color=7a5cff&labelColor=0d1117)
+![repos](https://img.shields.io/github/search/mammetmyrat/mammetmyrat?style=flat-square&color=39ff88&labelColor=0d1117&label=&query=user:mammetmyrat&logo=github&logoColor=white)
+[![website](https://img.shields.io/badge/mammetmyrat.github.io-00f0ff?style=flat-square&logo=googlechrome&logoColor=0d1117&labelColor=0d1117)](https://mammetmyrat.github.io/)
 
----
-[![](https://visitcount.itsvg.in/api?id=mammetmyrat&icon=0&color=1)](https://visitcount.itsvg.in)
+</div>
+
+<br/>
+
+## `01` &nbsp;//&nbsp; SYSTEM INFO
+
+```kotlin
+// ~/mammet/profile.kt
+data class Developer(
+    val name: String      = "Mammet",
+    val role: String      = "Android & Android TV Engineer",
+    val base: String      = "Ashgabat, Turkmenistan 🇹🇲",
+    val since: Int        = 2021,
+    val stack: List<String> = listOf("Kotlin", "Compose", "KMP", "Coroutines", "Ktor"),
+    val shipped: String   = "Belet TV · Belet Mobile · Voizon · MM Launcher",
+    val status: String    = "Open to interesting projects 🟢"
+)
+```
+
+<br/>
+
+## `02` &nbsp;//&nbsp; TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,android,gradle,firebase,sqlite,spring,git,github,figma,postman&theme=dark&perline=12" />
+
+<br/><br/>
+
+![Compose](https://img.shields.io/badge/Jetpack_Compose-0d1117?style=for-the-badge&logo=jetpackcompose&logoColor=00f0ff&labelColor=0d1117&color=1f2a37)
+![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-0d1117?style=for-the-badge&logo=kotlin&logoColor=7a5cff&color=1f2a37)
+![CMP](https://img.shields.io/badge/Compose_Multiplatform-0d1117?style=for-the-badge&logo=jetpackcompose&logoColor=39ff88&color=1f2a37)
+![Coroutines](https://img.shields.io/badge/Coroutines_%26_Flow-0d1117?style=for-the-badge&logo=kotlin&logoColor=00f0ff&color=1f2a37)
+![Hilt](https://img.shields.io/badge/Hilt-0d1117?style=for-the-badge&logo=dagger&logoColor=ff5722&color=1f2a37)
+![Koin](https://img.shields.io/badge/Koin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7a5cff&color=1f2a37)
+![Ktor](https://img.shields.io/badge/Ktor-0d1117?style=for-the-badge&logo=kotlin&logoColor=ff4d9d&color=1f2a37)
+![Retrofit](https://img.shields.io/badge/Retrofit-0d1117?style=for-the-badge&logo=android&logoColor=39ff88&color=1f2a37)
+![Room](https://img.shields.io/badge/Room-0d1117?style=for-the-badge&logo=android&logoColor=ff6f61&color=1f2a37)
+![Paging](https://img.shields.io/badge/Paging_3-0d1117?style=for-the-badge&logo=android&logoColor=00f0ff&color=1f2a37)
+![ExoPlayer](https://img.shields.io/badge/ExoPlayer-0d1117?style=for-the-badge&logo=android&logoColor=ff9f1c&color=1f2a37)
+![Android TV](https://img.shields.io/badge/Android_TV-0d1117?style=for-the-badge&logo=androidtv&logoColor=39ff88&color=1f2a37)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=39ff88&color=1f2a37)
+
+</div>
+
+<br/>
+
+## `03` &nbsp;//&nbsp; PRODUCTION APPS
+
+<div align="center">
+
+| | App | Platform | Stack | |
+|:-:|:--|:-:|:--|:-:|
+| 📺 | **Belet TV** — movies & series streaming | Android TV | Kotlin · Compose · Retrofit · ExoPlayer | [![Play](https://img.shields.io/badge/Google_Play-0d1117?style=flat-square&logo=googleplay&logoColor=00f0ff&color=1f2a37)](https://play.google.com/store/apps/details?id=tm.belet.filmstv) |
+| 🎬 | **Belet Mobile** — online cinema | Android | Kotlin · XML · Hilt · Paging 3 | [![Play](https://img.shields.io/badge/Google_Play-0d1117?style=flat-square&logo=googleplay&logoColor=00f0ff&color=1f2a37)](https://play.google.com/store/apps/details?id=tm.belet.films) |
+| 🛍️ | **Voizon** — cross-platform shopping app (one codebase) | Android · iOS | Kotlin Multiplatform · Compose Multiplatform · Firebase | [![Play](https://img.shields.io/badge/Google_Play-0d1117?style=flat-square&logo=googleplay&logoColor=00f0ff&color=1f2a37)](https://play.google.com/store/apps/details?id=dev.mammet.poizontm)<br/>[![App Store](https://img.shields.io/badge/App_Store-0d1117?style=flat-square&logo=appstore&logoColor=7a5cff&color=1f2a37)](https://apps.apple.com/tm/app/voizon/id6778006803) |
+| 🚀 | **MM Launcher** — light home screen for Android TV & boxes | Android TV | Kotlin | [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=39ff88&color=1f2a37)](https://github.com/mammetmyrat/mmlauncher) |
+
+</div>
+
+<br/>
+
+## `04` &nbsp;//&nbsp; OPEN SOURCE
+
+<div align="center">
+
+<a href="https://github.com/mammetmyrat/mmlauncher"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mammetmyrat&repo=mmlauncher&theme=transparent&title_color=00f0ff&icon_color=39ff88&text_color=9fb0c5&bg_color=0d1117&border_color=1f2a37&show_owner=false" /></a>
+<a href="https://github.com/mammetmyrat/RecipeAppCMP"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mammetmyrat&repo=RecipeAppCMP&theme=transparent&title_color=00f0ff&icon_color=39ff88&text_color=9fb0c5&bg_color=0d1117&border_color=1f2a37&show_owner=false" /></a>
+<a href="https://github.com/mammetmyrat/Weather-KMP"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mammetmyrat&repo=Weather-KMP&theme=transparent&title_color=00f0ff&icon_color=39ff88&text_color=9fb0c5&bg_color=0d1117&border_color=1f2a37&show_owner=false" /></a>
+<a href="https://github.com/mammetmyrat/Jetpack-NewsApp"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mammetmyrat&repo=Jetpack-NewsApp&theme=transparent&title_color=00f0ff&icon_color=39ff88&text_color=9fb0c5&bg_color=0d1117&border_color=1f2a37&show_owner=false" /></a>
+<a href="https://github.com/mammetmyrat/DownloadStateView"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mammetmyrat&repo=DownloadStateView&theme=transparent&title_color=00f0ff&icon_color=39ff88&text_color=9fb0c5&bg_color=0d1117&border_color=1f2a37&show_owner=false" /></a>
+<a href="https://github.com/mammetmyrat/Chrono"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mammetmyrat&repo=Chrono&theme=transparent&title_color=00f0ff&icon_color=39ff88&text_color=9fb0c5&bg_color=0d1117&border_color=1f2a37&show_owner=false" /></a>
+<a href="https://github.com/mammetmyrat/reservation-system"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mammetmyrat&repo=reservation-system&theme=transparent&title_color=00f0ff&icon_color=39ff88&text_color=9fb0c5&bg_color=0d1117&border_color=1f2a37&show_owner=false" /></a>
+<a href="https://github.com/mammetmyrat/mammetmyrat.github.io"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mammetmyrat&repo=mammetmyrat.github.io&theme=transparent&title_color=00f0ff&icon_color=39ff88&text_color=9fb0c5&bg_color=0d1117&border_color=1f2a37&show_owner=false" /></a>
+
+</div>
+
+<br/>
+
+## `05` &nbsp;//&nbsp; TELEMETRY
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mammetmyrat&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=transparent&bg_color=0d1117&border_color=1f2a37&title_color=00f0ff&icon_color=39ff88&text_color=9fb0c5&ring_color=00f0ff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammetmyrat&layout=compact&langs_count=8&theme=transparent&bg_color=0d1117&border_color=1f2a37&title_color=00f0ff&text_color=9fb0c5" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=mammetmyrat&theme=transparent&background=0D1117&border=1F2A37&stroke=1F2A37&ring=00F0FF&fire=39FF88&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=9FB0C5&dates=6B7A90" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mammetmyrat&bg_color=0d1117&color=9fb0c5&line=00f0ff&point=39ff88&area=true&area_color=00f0ff&hide_border=true&radius=8" width="100%" />
+
+</div>
+
+<br/>
+
+## `06` &nbsp;//&nbsp; CONNECT
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f0ff&color=1f2a37)](https://linkedin.com/in/mammet-mammetmyradov)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff4d9d&color=1f2a37)](https://instagram.com/double_m279)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff5f57&color=1f2a37)](mailto:mammetmyrat20020709@gmail.com)
+[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39ff88&color=1f2a37)](https://mammetmyrat.github.io/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7a5cff,100:00f0ff&height=100&section=footer" width="100%" alt="footer"/>
+
+</div>
