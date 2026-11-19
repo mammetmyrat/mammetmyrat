@@ -8,8 +8,8 @@
 
 ![views](https://komarev.com/ghpvc/?username=mammetmyrat&label=VIEWS&color=00f0ff&style=flat-square&labelColor=0d1117)
 ![followers](https://img.shields.io/github/followers/mammetmyrat?style=flat-square&logo=github&color=7a5cff&labelColor=0d1117)
-![repos](https://img.shields.io/github/search/mammetmyrat/mammetmyrat?style=flat-square&color=39ff88&labelColor=0d1117&label=&query=user:mammetmyrat&logo=github&logoColor=white)
-[![website](https://img.shields.io/badge/mammetmyrat.github.io-00f0ff?style=flat-square&logo=googlechrome&logoColor=0d1117&labelColor=0d1117)](https://mammetmyrat.github.io/)
+![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmammetmyrat&query=%24.public_repos&label=repos&logo=github&style=flat-square&color=39ff88&labelColor=0d1117)
+[![website](https://img.shields.io/badge/website-mammetmyrat.github.io-00f0ff?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://mammetmyrat.github.io/)
 
 </div>
 
